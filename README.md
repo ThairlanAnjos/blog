@@ -1,2 +1,3 @@
-# blog
-Personal blog notes
+# Thairlan Anjos | Notes
+
+Personal blog notes.
