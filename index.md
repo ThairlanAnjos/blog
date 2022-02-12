@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+> **👋🏽 Hello, welcome to my blog.**
+> Here I publish every week lifestyle notes,
+> ux design, articles and book summaries on technology and web
+> development.
